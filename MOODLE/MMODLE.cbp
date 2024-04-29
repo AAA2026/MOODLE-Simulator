@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MMODLE" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug Win32">
+				<Option output="./Debug/MMODLE" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Debug/" />
+				<Option deps_output="./Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-DWIN32" />
+					<Add option="-D_DEBUG" />
+					<Add option="-Wall" />
+				</Compiler>
+			</Target>
+			<Target title="Debug x64">
+				<Option output="./Debug/MMODLE" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Debug/" />
+				<Option deps_output="./Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-D_DEBUG" />
+					<Add option="-Wall" />
+				</Compiler>
+			</Target>
+			<Target title="Release x64">
+				<Option output="./Release/MMODLE" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Release/" />
+				<Option deps_output="./Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-DNDEBUG" />
+					<Add option="-Wall" />
+				</Compiler>
+			</Target>
+			<Target title="Release Win32">
+				<Option output="./Release/MMODLE" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Release/" />
+				<Option deps_output="./Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-DWIN32" />
+					<Add option="-DNDEBUG" />
+					<Add option="-Wall" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Unit filename="Loading.cpp" />
+		<Unit filename="Loading.h" />
+		<Unit filename="MyForm.cpp" />
+		<Unit filename="MyForm.h" />
+		<Unit filename="MyForm2.cpp" />
+		<Unit filename="MyForm2.h" />
+		<Unit filename="MyForm3.cpp" />
+		<Unit filename="MyForm3.h" />
+		<Unit filename="NumberSize.cpp" />
+		<Unit filename="NumberSize.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

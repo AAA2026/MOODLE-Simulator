@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1714396248 source:c:\users\abdal\downloads\zipped mmodle\numbersize.cpp
+	"NumberSize.h"
+
+1714396248 c:\users\abdal\downloads\zipped mmodle\numbersize.h
+	"MyForm.h"
+	"MyForm2.h"
+	"MyForm3.h"
+
+1714396248 c:\users\abdal\downloads\zipped mmodle\myform.h
+	"MyForm2.h"
+	"MyForm3.h"
+	"NumberSize.h"
+
+1714396248 c:\users\abdal\downloads\zipped mmodle\myform2.h
+
+1714396248 c:\users\abdal\downloads\zipped mmodle\myform3.h
+
