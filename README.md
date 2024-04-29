@@ -1,1 +1,1 @@
-# MOODLE-Simulator-Project
+developing a C++ based Moodle simulator project, focusing on GUI implementation. Collaborated with teammates to design and execute user-friendly interfaces. Played a key role in coding and integrating graphical elements to simulate Moodle functionalities.
