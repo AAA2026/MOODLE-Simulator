@@ -1,4 +1,4 @@
-# MOODLE Simulator Project
+# MOODLE Simulator
 
 ## Overview
 
