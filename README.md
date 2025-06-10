@@ -68,7 +68,7 @@ After successfully building the project:
 
 ## Code Overview
 
-The application follows a structure common for Windows Forms applications:
+### The application follows a structure common for Windows Forms applications:
 
 *   **Forms (`MyForm`, `MyForm2`, `MyForm3`, `Loading`, `NumberSize`):** These header files (`.h`) define the visual layout and components of the GUI windows, while the corresponding source files (`.cpp`) contain the event handling logic (e.g., what happens when a button is clicked).
 *   **Data Models (`class.h`, `Class.cpp`):** Define the structure for storing student (`CStudent`), course (`CCourse`), and postgraduate student (`CPG_student`) data. These classes encapsulate the properties (like name, ID, code, cost) and methods (like `registerStudent`, `AddCourse`, `calculateGPA`) related to these entities.
