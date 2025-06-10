@@ -41,7 +41,7 @@ The repository contains several key components:
 
 ## Setup and Building
 
-To build and run this project, you will need:
+### To build and run this project, you will need:
 
 1.  **Microsoft Visual Studio:** Install a version of Visual Studio (e.g., Visual Studio 2019 or later) that includes the ".NET desktop development" workload with C++/CLI support enabled.
 2.  **.NET Framework:** Ensure the target .NET Framework version required by the project is installed on your system (this can usually be managed through the Visual Studio installer).
