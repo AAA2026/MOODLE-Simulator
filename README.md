@@ -6,7 +6,7 @@ This project presents a desktop application developed using C++/CLI and Windows 
 
 ## Features
 
-The MOODLE Simulator provides several key functionalities accessible through its graphical interface:
+### The MOODLE Simulator provides several key functionalities accessible through its graphical interface:
 
 *   **Student Management:** Allows for the registration of new students, capturing details such as name, username, password, major, ID, and grades. It includes specific handling for postgraduate students, potentially capturing additional information like job titles.
 *   **Course Management:** Enables the addition of new courses, recording information like course name, code, and cost.
