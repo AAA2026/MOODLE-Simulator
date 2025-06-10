@@ -16,7 +16,7 @@ This project presents a desktop application developed using C++/CLI and Windows 
 
 ## Technology Stack
 
-The application is primarily built using:
+### The application is primarily built using:
 
 *   **C++/CLI:** A set of C++ language extensions by Microsoft for programming on the .NET platform. This allows mixing native C++ code with managed .NET code.
 *   **.NET Framework:** The application utilizes the System::Windows::Forms namespace, indicating it targets the .NET Framework for its GUI components.
