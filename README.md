@@ -24,7 +24,7 @@ This project presents a desktop application developed using C++/CLI and Windows 
 
 ## Project Structure
 
-The repository contains several key components:
+### The repository contains several key components:
 
 *   **`MOODLE/` directory:** This appears to be the main project directory containing the core C++/CLI Windows Forms application.
     *   `MMODLE.sln`, `MMODLE.vcxproj`: Visual Studio solution and project files.
